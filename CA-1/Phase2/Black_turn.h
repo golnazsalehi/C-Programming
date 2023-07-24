@@ -1,0 +1,1 @@
+void Black_turn(char GB[600][600]);

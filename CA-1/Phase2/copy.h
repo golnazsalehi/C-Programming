@@ -1,0 +1,1 @@
+void copy(char GB[600][600], char gb[600][600]);

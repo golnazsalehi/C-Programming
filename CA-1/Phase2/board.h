@@ -1,0 +1,1 @@
+void board(char GB[600][600]);

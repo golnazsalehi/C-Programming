@@ -1,0 +1,1 @@
+int Black_win_check(char GB[600][600]);
