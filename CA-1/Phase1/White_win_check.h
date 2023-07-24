@@ -1,1 +1,1 @@
-
+int White_win_check(char GB[6][6]);

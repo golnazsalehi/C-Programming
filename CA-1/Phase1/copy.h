@@ -1,0 +1,1 @@
+void copy(char GB[6][6], char gb[6][6]);

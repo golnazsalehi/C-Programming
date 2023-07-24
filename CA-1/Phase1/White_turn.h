@@ -1,0 +1,1 @@
+void White_turn(char GB[6][6]);
